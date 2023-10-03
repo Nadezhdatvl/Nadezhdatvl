@@ -14,9 +14,7 @@
 
   ⚡ Интересное: у меня отличный музыкальный вкус, и все хотят слушать мой плейлист :)
 
-  📫 Контакты:
-    - mail - nadezhdatvl25@gmail.com, 
-    - telegram - @Nadezhdatvl
+---
 
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
@@ -30,6 +28,7 @@
 <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/redashio/redashio-ar21.svg" title="Redash" alt="Redash" width="40" height="40"/>
 </div>
 
+---
 
   📫 Контакты:
     - mail - nadezhdatvl25@gmail.com, 
