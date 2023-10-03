@@ -21,12 +21,15 @@
 
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg";
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg";
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Superset_logo.svg"
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  
-<img src="" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/apache-superset-icon.svg" title="Superset" alt="Superset" width="40" height="40"/>&nbsp;
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power-BI" alt="Power-BI" width="40" height="40"/>&nbsp;
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/airflow.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
+<img src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://cloud.githubusercontent.com/assets/1724406/14420001/cfc72600-ffc9-11e5-8743-9b94ce8af254.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
+<img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/redashio/redashio-ar21.svg" title="Redash" alt="Redash" width="40" height="40"/>&nbsp />
 </div>
   <!--
 **Nadezhdatvl/Nadezhdatvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
