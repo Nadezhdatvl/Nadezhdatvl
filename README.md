@@ -35,9 +35,9 @@
 
 ---
 
-  📫 Контакты:
-    - mail: nadezhdatvl25@gmail.com, 
-    - telegram: @Nadezhdatvl
+ ### 📫 Контакты:
+    - mail: nadezhdatvl25@gmail.com;
+    - telegram: @Nadezhdatvl;
   
   <!--
 **Nadezhdatvl/Nadezhdatvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
