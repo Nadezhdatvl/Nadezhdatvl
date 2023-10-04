@@ -1,10 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F2bGFzYWc5OTlqeDV3Zmw1bW1hN3p3aTNwdGRwODcwcjdvZTNjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fnUBpZFH6pyIM8JkSw/giphy.gif" width="600" height="300"/>
 </div>
-<h1>
-  Привет
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
+### Привет :wave:
 
 ---
 
